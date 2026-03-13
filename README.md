@@ -27,7 +27,7 @@ This project demonstrates a locally hosted AI environment capable of running Lar
 
 ## ComfyUI Workflow
 
-![Workflow](workflow.png)
+![Workflow](Workflow.png)
 
 ## Purpose
 
