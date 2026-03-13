@@ -1,0 +1,4 @@
+requests
+torch
+diffusers
+transformers
